@@ -1,3 +1,2 @@
-requests
 dotenv
-urllib3
+slack_sdk
